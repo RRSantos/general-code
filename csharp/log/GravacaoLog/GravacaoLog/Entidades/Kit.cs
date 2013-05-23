@@ -15,7 +15,7 @@ namespace GravacaoLog.Entidades
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            this.Dispose();
         }
     }
 }
